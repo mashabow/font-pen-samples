@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -880 542 1000">
+    <g transform="scale(1, -1)">
+        <!-- ボディの枠 -->
+        <rect x="0" y="-120" width="542" height="1000"
+            stroke="cyan" stroke-width="2" fill="none"/>
+        <!-- グリフ座標系の原点 -->
+        <circle cx="0" cy="0" r="8" fill="blue"/>
+        <!-- グリフのアウトライン -->
+        <path d="M100 0H513V79H193V733H100Z"/>
+    </g>
+</svg>
